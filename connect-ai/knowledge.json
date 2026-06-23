@@ -110,5 +110,21 @@
     "category": "business",
     "source": "agent",
     "verified": true
+  },
+  {
+    "id": "n17822152307967121",
+    "text": "# 스킬: 🎬 후킹 분석기\n본인 채널 최근 영상의 첫 30초 후킹 패턴을 자동 분석.\n실행 가능한 파이썬 스킬: <run>python3 \"/Users/dxwave/Desktop/DXWAVE AI Music & Media Lab/connect-ai-packs/connect-ai-packs/스킬/youtube/hook_analyzer.py\"</run>",
+    "tags": [
+      "스킬",
+      "후킹",
+      "run",
+      "dxwave",
+      "connect",
+      "packs"
+    ],
+    "ts": 1782215230797,
+    "category": "marketing",
+    "source": "ezerai",
+    "verified": true
   }
 ]
